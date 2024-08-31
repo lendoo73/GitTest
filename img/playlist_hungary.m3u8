@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/04fCzHl.png" group-title="General",16tv Budapest (360p)
-https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8?checkedby:iptvcat.com
+https://youtu.be/1g2OamIKqNI
 #EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",ATV (160p)
 https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",ATV (576p)
